@@ -24,5 +24,5 @@ label_heading.grid(row=0, column=2)
 label3 = Label(text="hours   minutes    seconds", font="times 15 bold")
 label3.grid(row=3, column=2)
 
-for_current_time()
+
 window.mainloop()
